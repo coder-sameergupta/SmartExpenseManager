@@ -323,7 +323,3 @@ The CI pipeline:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-
-**Akshita Pardeshi**  
-[GitHub](https://github.com/akshitap30)
